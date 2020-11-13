@@ -7,15 +7,18 @@ Repositório destinado aos artefatos gerados no trabalho entitulado "Identifica�
 Por favor, considere a citação abaixo em caso de algum dos artefatos presentes neste repositório contribuir para a sua pesquisa acadêmica:  
 
 ```
-@article{iSys9394,
-	author = {Leonardo Santos e Gustavo Guedes},
-	title = {Identificação de predadores sexuais brasileiros em conversas textuais na internet por meio de aprendizagem de máquina},
-	journal = {iSys - Revista Brasileira de Sistemas de Informação},
+@article{iSys,
+	author = {Leonardo dos Santos and Gustavo Guedes},
+	title = {Identification of Brazilian sexual predators in textual conversations on the internet through machine learning},
+	journal = {iSys - Brazilian Journal of Information Systems},
 	volume = {13},
 	number = {4},
 	year = {2020},
-	keywords = {Pedofilia; PAN-2012; Identificação de predador sexual; Aprendizado de máquina; Redes Neurais Convolucionais; Máquina de vetores de suporte; Árvore de decisão; Naïve Bayes; Florestas Aleatórias; Redes sociais; Conversas virtuais},
-	abstract = {Nos dias de hoje um grande número de crianças e adolescentes tem usado aplicações sociais. De fácil acesso, essas aplicações promovem benefícios e oportunidades. No entanto, ao mesmo tempo, expõem os usuários à diferentes riscos, dentre os quais a atividade predatória sexual. A atividade predatória sexual possui diversas finalidades como a obtenção de pornografia infantil, a extorsão e o abuso sexual. O presente trabalho possui três objetivos principais: (i) criar um conjunto de dados de conversas textuais contendo atividade sexual predatória real para o português do Brasil; (ii) realizar uma análise estatística das conversas textuais presentes nesse conjunto de dados; (iii) realizar uma avaliação experimental considerando os algoritmos de aprendizado de máquina mais populares no domínio da pesquisa com o conjunto de dados construído. Essa avaliação considera a medida de F1 como base. Os resultados alcançados com as contribuições (i) e (ii) possibilitam que novos estudos possam se concentrar na problemática da identificação de predadores sexuais em conversas textuais para o português do Brasil. Os resultados obtidos com a contribuição (iii) evidenciam que as Máquinas de vetores de suporte obtiveram o melhor comportamento, apresentando um resultado de 89.87%.},
-	issn = {1984-2902},	pages = {22--47}	url = {http://www.seer.unirio.br/index.php/isys/article/view/9394}
+	keywords = {},
+	abstract = {Nowadays, a large number of children and adolescents have made use of social applications. Easy to access, these applications provide benefits and opportunities. However, at the same time, they expose users to different risks, including predatory sexual activity. Predatory sexual activity has several purposes, such as obtaining child pornography, extortion, and sexual abuse. The present work has three main objectives: (i) to create a data set of textual conversations containing a real predatory sexual activity for Brazilian Portuguese; (ii) to perform a statistical analysis in the data set created; (iii) to carry out an experimental evaluation considering the most popular machine learning algorithms in the research domain with the data set built. This evaluation regards F1\$ measure as a basis.  The results achieved with contributions (i) and (ii) enable new studies to focus on the problem of identifying sexual predators in textual conversations for Brazilian Portuguese. The results obtained with the contribution (iii) show that the Support Vector Machines behaved as the best of the considered algorithms, presenting a result of 89.87%.},
+	issn = {1984-2902},
+	pages = {22--47},
+	doi = {10.5753/isys.2020.822},
+	url = {https://sol.sbc.org.br/journals/index.php/isys/article/view/822}
 }
 ```
